@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./DoctorPage.css";
 import Sidebar from "./Sidebar";
+// doctor page
 
 const DoctorPage = () => {
   return (
